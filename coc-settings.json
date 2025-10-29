@@ -1,0 +1,6 @@
+{
+  "suggest.autoTrigger": "none",
+  "suggest.triggerAfterInsertEnter": true,  
+  "angular.trace.server": "off",
+  "angular.log": "off"
+}
