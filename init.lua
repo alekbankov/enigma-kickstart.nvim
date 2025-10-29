@@ -978,6 +978,7 @@ require('lazy').setup({
     --    - Show your current context: https://github.com/nvim-treesitter/nvim-treesitter-context
     --    - Treesitter + textobjects: https://github.com/nvim-treesitter/nvim-treesitter-textobjects
   },
+  -- Coc.Nvim Plugin for Web Development LSP, IntelliSense
   { 'neoclide/coc.nvim', branch = 'release', build = 'npm ci' },
 
   -- The following comments only work if you have downloaded the kickstart repo, not just copy pasted the
